@@ -38,11 +38,16 @@ If you don't want to install Python and dependencies, you can download pre-built
 * Smaller balls are harder to click but give more points.
 * The game lasts for 30 seconds. Try to beat your high score!
 
+
+
+
+
 # Controls
 * *Mouse*: Click on the balls to pop them.
 
 # Screenshots
-Game Screenshot <!-- Add a screenshot of your game here -->
+Game Screenshot 
+https://github.com/user-attachments/assets/eaa37cb8-8cab-456b-bc47-38a27c808d58
 
 # Contributing
 If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
