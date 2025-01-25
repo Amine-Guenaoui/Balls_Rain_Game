@@ -13,22 +13,21 @@
 # Prerequisites
 * Python 3.x
 * PyGame library
-# Steps to Run the Game
-   
-    *Clone the repository*:
-    ```bash
-    git clone https://github.com/yourusername/ball-rain-clicker.git
-    cd ball-rain-clicker
-    ```
+# Steps to Run the 
+*Clone the repository
+```plaintext
+    git clone https://github.com/Amine-Guenaoui/Balls_Rain_Game.git
 
-    *Install dependencies*:
+    cd Balls_Rain_Game
+ ```
+*Install dependencies*:
     ```bash
     pip install pygame
     ```
 
-    *Run the game*:
+*Run the game*:
     ```bash
-    python ball_rain_clicker.py
+    python rainballs2.py
     ```
 
 # Download Pre-built Executables
